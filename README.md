@@ -1,5 +1,5 @@
 # SynoAppsDocs
-The aim of SynoAppsDocs is to provide documentation on applications using Syno ExtJS frameworkS<br><br>
+The aim of SynoAppsDocs is to provide documentation on applications using Syno ExtJS framework<br><br>
 
 This part includes :
 - A tar of the apps/modules docs : to document how apps are using the UI components and framework (in the docs folder)
