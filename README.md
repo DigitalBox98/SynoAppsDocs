@@ -14,7 +14,7 @@ For more information, please refer to the [SynoAppsDocs Wiki](https://github.com
 
 # Application
 
-The short is available under DSM :<br>
+The shortcut is available under DSM :<br>
 ![shortcut](https://user-images.githubusercontent.com/57635141/117479372-8c453880-af60-11eb-970a-ff1279b6275c.png)
 
 <br>
