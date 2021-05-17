@@ -2,7 +2,7 @@
 The aim of SynoAppsDocs is to provide documentation on applications using Syno ExtJS framework<br><br>
 
 This part includes :
-- A tar of the apps/modules docs : to document how apps are using the UI components and framework (in the docs folder)
+- A tar of the apps/modules docs : to document how apps are using the framework components (in the docs folder)
 
 This repo doesn't include :
 - The SPK package for SynoAppsDocs. For that refer to the SynoAppsDocs source in the useful links section available in the [Synology DSM info](https://github.com/DigitalBox98/SynoAppsDocs/wiki/Synology-DSM-info) page 
